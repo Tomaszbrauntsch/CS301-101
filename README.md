@@ -1,0 +1,1 @@
+This is a project that I made during my CS 301-101 course. The CSV file is a dataset from (nycopendata)[https://opendata.cityofnewyork.us/]. The operations performed on the dataset was used to demonstrate the preparation and demonstration for a linear regression model.
